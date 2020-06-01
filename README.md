@@ -4,9 +4,7 @@ Estudiante: Kelly Amanda Chiara Flores
 
 CI: 10031807 lp
 
-# Almacenes
-
-Compilación
+# Almacenes imagenes de Salida
 
 Pagina de inicio
 
