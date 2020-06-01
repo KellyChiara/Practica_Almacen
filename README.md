@@ -1,6 +1,10 @@
 # Practica Nro. 5
 
-Almacenes
+Estudiante: Kelly Amanda Chiara Flores  
+
+CI: 10031807 lp
+
+# Almacenes
 
 Compilación
 
