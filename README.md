@@ -8,7 +8,7 @@ Pagina de inicio
 
 ![1](https://user-images.githubusercontent.com/65792707/83458840-38b59b00-a431-11ea-8ad4-70daadae7196.jpg)
 
-Seleccion de nuevo registro
+Seleccionando nuevo registro
 
 ![2](https://user-images.githubusercontent.com/65792707/83459375-3dc71a00-a432-11ea-8508-658e9c791361.jpg)
 
@@ -25,6 +25,10 @@ Seleccionando la opcion de Editar Registro
 ![5](https://user-images.githubusercontent.com/65792707/83459441-651de700-a432-11ea-8ccc-b60224169d5e.jpg)
 
 ![6](https://user-images.githubusercontent.com/65792707/83459446-67804100-a432-11ea-962f-75cfaa0c0b99.jpg)
+
+Mostrando la pagina de inicio con la edicion del registro
+
+![7](https://user-images.githubusercontent.com/65792707/83459449-69e29b00-a432-11ea-9850-82759072caf6.jpg)
 
 Seleccionando la opcion de Eliminar 
 
