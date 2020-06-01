@@ -38,4 +38,3 @@ Mostrando la pagina de inicio sin el producto eliminado
 
 ![10](https://user-images.githubusercontent.com/65792707/83459472-736c0300-a432-11ea-9869-68e155b095b2.jpg)
 
-Base de datos usada 
